@@ -59,4 +59,4 @@ export default function Model(props) {
   )
 }
 
-useGLTF.preload('/lambo-transformed.glb')
+useGLTF.preload('public/img/lambo-transformed.glb')
